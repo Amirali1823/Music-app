@@ -1,0 +1,7 @@
+# inside your project root (where gradlew is)
+git init
+git add .
+git commit -m "Initial commit - AndroidMusicApp"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/AndroidMusicApp.git
+git push -u origin main
